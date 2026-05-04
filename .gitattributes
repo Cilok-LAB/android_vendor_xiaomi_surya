@@ -1,0 +1,2 @@
+proprietary/priv-app/MiuiCamera/MiuiCamera.apk filter=lfs diff=lfs merge=lfs -text
+images/NON-HLOS.bin filter=lfs diff=lfs merge=lfs -text
